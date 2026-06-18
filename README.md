@@ -39,6 +39,7 @@ This project digs into the full customer journey — Browse → Add to Cart → 
 | Resource | Link |
 |---|---|
 | 📊 Live Dashboard | [View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNzBlZWUwMTMtMDkwMS00ZTZlLWFmNGMtMjk3YTViYjlkNzM0IiwidCI6IjQyZjRkOWVkLTBiYmItNGU5NS1hYmRjLTM5OGM1M2QzNjkxZCJ9) |
+| 📂 Project .pdf | [View Dataset](https://github.com/SpartanSubha/E-Commerce-User-Journey-Funnel-Revenue-Leakage-Analysis/blob/main/E-Commerce%20User%20Journey%20Funnel%20%26%20Leakage%20Analysis.pdf) |
 | 📁 Download .pbix | [Download File](https://github.com/SpartanSubha/E-Commerce-User-Journey-Funnel-Revenue-Leakage-Analysis/blob/main/E-Commerce%20User%20Journey%20Funnel%20%26%20Leakage%20Analysis.pbix) |
 | 📂 Dataset from **kaggle** | [View Dataset](https://github.com/SpartanSubha/E-Commerce-User-Journey-Funnel-Revenue-Leakage-Analysis/blob/main/Funnel_Analysis_Data.csv) |
 

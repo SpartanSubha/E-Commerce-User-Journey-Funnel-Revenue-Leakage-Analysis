@@ -34,6 +34,16 @@ This project digs into the full customer journey — Browse → Add to Cart → 
 
 ---
 
+## 🔗 Project Links
+
+| Resource | Link |
+|---|---|
+| 📊 Live Dashboard | [View on Power BI Service]([YOUR_POWERBI_PUBLISH_LINK](https://app.powerbi.com/view?r=eyJrIjoiNzBlZWUwMTMtMDkwMS00ZTZlLWFmNGMtMjk3YTViYjlkNzM0IiwidCI6IjQyZjRkOWVkLTBiYmItNGU5NS1hYmRjLTM5OGM1M2QzNjkxZCJ9)) |
+| 📁 Download .pbix | [Download File]([YOUR_PBIX_GITHUB_LINK](https://github.com/SpartanSubha/E-Commerce-User-Journey-Funnel-Revenue-Leakage-Analysis/blob/main/E-Commerce%20User%20Journey%20Funnel%20%26%20Leakage%20Analysis.pbix)) |
+| 📂 Dataset from **kaggle** | [View Dataset]([YOUR_DATASET_LINK](https://github.com/SpartanSubha/E-Commerce-User-Journey-Funnel-Revenue-Leakage-Analysis/blob/main/Funnel_Analysis_Data.csv)) |
+
+---
+
 ## 🗂️ Dashboard Structure
 
 The Power BI report is structured across **4 purposeful pages**, each answering a distinct business question.
